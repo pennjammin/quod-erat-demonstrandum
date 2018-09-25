@@ -4,7 +4,6 @@ import Button from 'material-ui/Button';
 import NProgress from 'nprogress';
 import { subscribeToNewsletter } from '../lib/api/public';
 import styled from "styled-components";
-import { colors } from "./colors";
 
 const Wrapper = styled.div`
   display: flex;
